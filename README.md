@@ -1,81 +1,116 @@
 # Ronald Guzmán Dávila
 
-Audiovisual Producer | Post Production | Sound Design | Music Production | Creative Tech
+Audiovisual Producer | Post Production Engineer | Sound Design | Creative Technology
 
-End-to-end audiovisual production:
-Production → Editing → Color → Audio Post → Delivery
+End-to-end production pipelines from capture to final delivery.
 
-Currently exploring:
-Creative coding • Audio reactive visuals • TouchDesigner workflows
+Focused on the intersection of:
+
+Audio engineering  
+Video post production  
+Music production  
+Creative coding  
+Audiovisual systems  
 
 ---
 
-## Technical Stack
+## Production Pipeline
+
+Pre production → Production → Editing → Color → Audio Post → Master Delivery
+
+Special interest in optimizing post workflows and hybrid production environments.
+
+---
+
+## Tools & Technologies
 
 ### Video
-DaVinci Resolve  
-Adobe Premiere Pro  
-Color managed workflows  
-Documentary production  
-Interview production  
+
+![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-orange)
+![Premiere](https://img.shields.io/badge/Adobe-Premiere-blue)
+![Color](https://img.shields.io/badge/Color-Grading-red)
 
 ### Audio
-Pro Tools Studio  
-Ableton Live  
-Waves  
-Soundtoys  
-Audio restoration  
-Podcast post production  
+
+![ProTools](https://img.shields.io/badge/Avid-ProTools-purple)
+![Ableton](https://img.shields.io/badge/Ableton-Live-black)
+![Waves](https://img.shields.io/badge/Waves-Plugins-blue)
+![Soundtoys](https://img.shields.io/badge/Soundtoys-Effects-grey)
 
 ### Music Production
-Analog + digital hybrid workflow
+
+Hybrid analog / digital workflow
 
 Moog Sub37  
 Moog DFAM  
 Prophet 08  
 Arturia MiniFreak  
-SSL interface  
 
 ### Systems
-Linux workflows  
-GitHub  
-Creative pipelines  
+
+![Linux](https://img.shields.io/badge/Linux-Workflow-yellow)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![Creative](https://img.shields.io/badge/Creative-Tech-black)
 
 ---
 
-## Current Focus
+## Workflow Thinking
 
-Creative technology integration into audiovisual workflows:
+Areas I care about:
 
-Audio reactive visuals  
-Generative visuals  
-Hybrid sound design  
-Creative coding foundations  
+Post production optimization  
+Audio clarity and dialogue treatment  
+Color consistency  
+Delivery specs  
+Creative tool integration  
+
+Building efficient pipelines instead of isolated processes.
 
 ---
 
-## Selected Work
+## Featured Work
 
-Podcast sound design:
-Estertor – drawing focused podcast production
+### Estertor Podcast
 
-Audiovisual production:
-Documentaries  
+Sound identity  
+Audio post production  
+Sound design  
+Mixing workflow  
+
+### Audiovisual Production
+
+Documentary work  
 Cultural interviews  
-Commercial production  
+Commercial content  
+Field production  
 
-Music:
+### Music & Sound Design
+
 Synth based production  
-Experimental sound design  
+Experimental textures  
+Hybrid recording workflows  
 
 ---
 
-## Learning Path
+## Creative Tech Exploration
+
+Currently researching:
 
 TouchDesigner  
-Creative coding  
-Audiovisual systems integration  
+Audio reactive visuals  
+Generative visuals  
 Interactive media  
+
+Building a bridge between audiovisual production and creative development.
+
+---
+
+## Lab (experiments coming)
+
+Creative coding tests  
+Audiovisual experiments  
+Sound design research  
+Workflow documentation  
 
 ---
 
@@ -90,17 +125,18 @@ Interactive media
 ## Contact
 
 Portfolio:
-https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_ES.md
-
-LinkedIn:
-https://www.linkedin.com/in/ronaldgdavila/
+(add reel)
 
 Email:
-guzmandavila@proton.me
+(add)
+
+LinkedIn:
+(optional)
 
 ---
 
-## Philosophy
+## Approach
 
-Technology is just a tool.
-Workflow is everything.
+Good production is not about tools.
+
+It is about decisions.
