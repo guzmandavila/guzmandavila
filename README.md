@@ -32,18 +32,6 @@ Building production pipelines from capture to final delivery
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=guzmandavila&show_icons=true&theme=dark&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzmandavila&layout=compact&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
 ## Production Stack
 
 ### Video
