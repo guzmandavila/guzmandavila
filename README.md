@@ -90,13 +90,13 @@ Interactive media
 ## Contact
 
 Portfolio:
-(pon aquí tu reel cuando lo tengas)
+https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_ES.md
 
 LinkedIn:
-(si quieres agregar)
+https://www.linkedin.com/in/ronaldgdavila/
 
 Email:
-(tu correo profesional)
+guzmandavila@proton.me
 
 ---
 
