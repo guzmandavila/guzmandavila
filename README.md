@@ -1,142 +1,86 @@
-# Ronald Guzmán Dávila
+<h1 align="center">Ronald Guzmán</h1>
 
-Audiovisual Producer | Post Production Engineer | Sound Design | Creative Technology
+<p align="center">
+Audiovisual Systems • Post Production • Sound Design • Creative Technology
+</p>
 
-End-to-end production pipelines from capture to final delivery.
-
-Focused on the intersection of:
-
-Audio engineering  
-Video post production  
-Music production  
-Creative coding  
-Audiovisual systems  
+<p align="center">
+Building production pipelines from capture to final delivery
+</p>
 
 ---
 
-## Production Pipeline
+<p align="center">
 
-Pre production → Production → Editing → Color → Audio Post → Master Delivery
+<a href="PUT_YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge">
+</a>
 
-Special interest in optimizing post workflows and hybrid production environments.
+<a href="PUT_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
+</a>
 
----
+<a href="mailto:PUT_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge">
+</a>
 
-## Tools & Technologies
+<a href="PUT_INSTAGRAM">
+<img src="https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge">
+</a>
 
-### Video
-
-![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-orange)
-![Premiere](https://img.shields.io/badge/Adobe-Premiere-blue)
-![Color](https://img.shields.io/badge/Color-Grading-red)
-
-### Audio
-
-![ProTools](https://img.shields.io/badge/Avid-ProTools-purple)
-![Ableton](https://img.shields.io/badge/Ableton-Live-black)
-![Waves](https://img.shields.io/badge/Waves-Plugins-blue)
-![Soundtoys](https://img.shields.io/badge/Soundtoys-Effects-grey)
-
-### Music Production
-
-Hybrid analog / digital workflow
-
-Moog Sub37  
-Moog DFAM  
-Prophet 08  
-Arturia MiniFreak  
-
-### Systems
-
-![Linux](https://img.shields.io/badge/Linux-Workflow-yellow)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![Creative](https://img.shields.io/badge/Creative-Tech-black)
-
----
-
-## Workflow Thinking
-
-Areas I care about:
-
-Post production optimization  
-Audio clarity and dialogue treatment  
-Color consistency  
-Delivery specs  
-Creative tool integration  
-
-Building efficient pipelines instead of isolated processes.
-
----
-
-## Featured Work
-
-### Estertor Podcast
-
-Sound identity  
-Audio post production  
-Sound design  
-Mixing workflow  
-
-### Audiovisual Production
-
-Documentary work  
-Cultural interviews  
-Commercial content  
-Field production  
-
-### Music & Sound Design
-
-Synth based production  
-Experimental textures  
-Hybrid recording workflows  
-
----
-
-## Creative Tech Exploration
-
-Currently researching:
-
-TouchDesigner  
-Audio reactive visuals  
-Generative visuals  
-Interactive media  
-
-Building a bridge between audiovisual production and creative development.
-
----
-
-## Lab (experiments coming)
-
-Creative coding tests  
-Audiovisual experiments  
-Sound design research  
-Workflow documentation  
+</p>
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=guzmandavila&show_icons=true&theme=dark)
+<p align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guzmandavila&layout=compact&theme=dark)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=guzmandavila&show_icons=true&theme=dark&hide_border=true"/>
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzmandavila&layout=compact&theme=dark&hide_border=true"/>
 
-## Contact
-
-Portfolio:
-(add reel)
-
-Email:
-(add)
-
-LinkedIn:
-(optional)
+</p>
 
 ---
 
-## Approach
+## Production Stack
 
-Good production is not about tools.
+### Video
 
-It is about decisions.
+![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-orange?style=for-the-badge)
+![Premiere](https://img.shields.io/badge/Adobe-Premiere-blue?style=for-the-badge)
+![Color](https://img.shields.io/badge/Color-Grading-red?style=for-the-badge)
+
+### Audio
+
+![ProTools](https://img.shields.io/badge/Avid-ProTools-purple?style=for-the-badge)
+![Ableton](https://img.shields.io/badge/Ableton-Live-black?style=for-the-badge)
+![Waves](https://img.shields.io/badge/Waves-Plugins-blue?style=for-the-badge)
+![Soundtoys](https://img.shields.io/badge/Soundtoys-FX-grey?style=for-the-badge)
+
+### Creative Tech
+
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-Learning-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Workflow-yellow?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge)
+
+---
+
+## Focus
+
+Post production workflows  
+Audiovisual systems  
+Sound design  
+Creative coding  
+
+---
+
+## Selected Work
+
+Estertor Podcast → Sound design & audio post  
+Documentary production  
+Synth based sound design  
+Hybrid production workflows  
+
+---
