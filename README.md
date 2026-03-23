@@ -32,43 +32,23 @@ Building production pipelines from capture to final delivery
 
 ---
 
-## Production Stack
+## Professional Experience
 
-### Video
+<p align="center">
 
-![DaVinci](https://img.shields.io/badge/DaVinci-Resolve-orange?style=for-the-badge)
-![Premiere](https://img.shields.io/badge/Adobe-Premiere-blue?style=for-the-badge)
-![Color](https://img.shields.io/badge/Color-Grading-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/Remote%20Work-5%2B%20Years-success?style=for-the-badge">
 
-### Audio
+<img src="https://img.shields.io/badge/Work%20Mode-Distributed%20Teams-blue?style=for-the-badge">
 
-![ProTools](https://img.shields.io/badge/Avid-ProTools-purple?style=for-the-badge)
-![Ableton](https://img.shields.io/badge/Ableton-Live-black?style=for-the-badge)
-![Waves](https://img.shields.io/badge/Waves-Plugins-blue?style=for-the-badge)
-![Soundtoys](https://img.shields.io/badge/Soundtoys-FX-grey?style=for-the-badge)
+<img src="https://img.shields.io/badge/Specialty-Post%20Production-purple?style=for-the-badge">
 
-### Creative Tech
+</p>
 
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-Learning-black?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Workflow-yellow?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Async-Collaboration-orange">
+<img src="https://img.shields.io/badge/Cloud-Delivery-grey">
+<img src="https://img.shields.io/badge/Deadlines-Fast%20Turnaround-red">
+<img src="https://img.shields.io/badge/Pipelines-Audiovisual-black">
 
-## Focus
-
-Post production workflows  
-Audiovisual systems  
-Sound design  
-Creative coding  
-
----
-
-## Selected Work
-
-Estertor Podcast → Sound design & audio post  
-Documentary production  
-Synth based sound design  
-Hybrid production workflows  
-
----
+</p>
