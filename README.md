@@ -12,19 +12,19 @@ Building production pipelines from capture to final delivery
 
 <p align="center">
 
-<a href="PUT_YOUR_PORTFOLIO">
+<a href="https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md">
 <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge">
 </a>
 
-<a href="PUT_LINKEDIN">
+<a href="https://www.linkedin.com/in/ronaldgdavila/">
 <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
 </a>
 
-<a href="mailto:PUT_EMAIL">
+<a href="mailto:rnnld@periplostudio.com">
 <img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge">
 </a>
 
-<a href="PUT_INSTAGRAM">
+<a href="https://www.instagram.com/guzzmandro/">
 <img src="https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge">
 </a>
 
