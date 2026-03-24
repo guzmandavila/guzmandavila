@@ -32,7 +32,7 @@ Construyendo flujos de producción desde el rodaje hasta la entrega final
 
 ---
 
-## Experiencia Profesional
+## Highlights
 
 <p align="center">
 
