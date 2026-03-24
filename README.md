@@ -36,19 +36,18 @@ Construyendo flujos de producción desde el rodaje hasta la entrega final
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Trabajo%20Remoto-5%2B%20Años-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Experiencia-13%2B%20Años-success?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Modalidad-Equipos%20Distribuidos-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trabajo%20Remoto-5%2B%20Años-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Especialidad-Postproducción-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Especialidad-Documentales-purple?style=for-the-badge">
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Colaboración-Async-orange">
-<img src="https://img.shields.io/badge/Entrega-Cloud-grey">
-<img src="https://img.shields.io/badge/Tiempos-Entregas%20Rápidas-red">
-<img src="https://img.shields.io/badge/Flujos-Audiovisuales-black">
+
+<img src="https://img.shields.io/badge/Tiempos-Flexibles-red">
 
 </p>
