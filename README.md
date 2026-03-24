@@ -1,11 +1,11 @@
 <h1 align="center">Ronald Guzmán Dávila</h1>
 
 <p align="center">
-Audiovisual Systems • Post Production • Sound Design • Creative Technology
+Producción Audiovisual • Postproducción • Diseño Sonoro • Tecnología Creativa
 </p>
 
 <p align="center">
-Building production pipelines from capture to final delivery
+Construyendo flujos de producción desde el rodaje hasta la entrega final
 </p>
 
 ---
@@ -13,7 +13,7 @@ Building production pipelines from capture to final delivery
 <p align="center">
 
 <a href="https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md">
-<img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/PORTAFOLIO-black?style=for-the-badge">
 </a>
 
 <a href="https://www.linkedin.com/in/ronaldgdavila/">
@@ -21,7 +21,7 @@ Building production pipelines from capture to final delivery
 </a>
 
 <a href="mailto:rnnld@periplostudio.com">
-<img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/CORREO-grey?style=for-the-badge">
 </a>
 
 <a href="https://www.instagram.com/guzzmandro/">
@@ -32,23 +32,23 @@ Building production pipelines from capture to final delivery
 
 ---
 
-## Professional Experience
+## Experiencia Profesional
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Remote%20Work-5%2B%20Years-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trabajo%20Remoto-5%2B%20Años-success?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Work%20Mode-Distributed%20Teams-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Modalidad-Equipos%20Distribuidos-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Specialty-Post%20Production-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Especialidad-Postproducción-purple?style=for-the-badge">
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Async-Collaboration-orange">
-<img src="https://img.shields.io/badge/Cloud-Delivery-grey">
-<img src="https://img.shields.io/badge/Deadlines-Fast%20Turnaround-red">
-<img src="https://img.shields.io/badge/Pipelines-Audiovisual-black">
+<img src="https://img.shields.io/badge/Colaboración-Async-orange">
+<img src="https://img.shields.io/badge/Entrega-Cloud-grey">
+<img src="https://img.shields.io/badge/Tiempos-Entregas%20Rápidas-red">
+<img src="https://img.shields.io/badge/Flujos-Audiovisuales-black">
 
 </p>
