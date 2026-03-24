@@ -43,11 +43,3 @@ Construyendo flujos de producción desde el rodaje hasta la entrega final
 <img src="https://img.shields.io/badge/Especialidad-Documentales-purple?style=for-the-badge">
 
 </p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Colaboración-Async-orange">
-
-<img src="https://img.shields.io/badge/Tiempos-Flexibles-red">
-
-</p>
