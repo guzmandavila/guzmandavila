@@ -32,7 +32,7 @@ Construyendo flujos de producción desde el rodaje hasta la entrega final
 
 ---
 
-## Highlights
+## ⚡ Highlights
 
 <p align="center">
 
