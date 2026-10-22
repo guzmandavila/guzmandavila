@@ -8,7 +8,7 @@
 
 Soy **Ronald Guzmán Dávila**, productor audiovisual independiente. Dirijo, filmo y llevo cada historia hasta su entrega final: edición, color y sonido. Trabajo en documental y contenido editorial, en campo y con equipos distribuidos.
 
-[Trabajo audiovisual](#audiovisual) &nbsp; / &nbsp; [Proyectos propios](#proyectos) &nbsp; / &nbsp; [Servicios](#servicios)
+[Trabajo audiovisual](#user-content-audiovisual) &nbsp; / &nbsp; [Proyectos propios](#user-content-proyectos) &nbsp; / &nbsp; [Servicios](#user-content-servicios)
 
 <br>
 
