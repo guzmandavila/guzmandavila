@@ -4,7 +4,7 @@
 
 ### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [ESCRÍBEME ↗](https://wa.me/593979864314)
 
-**13+ años creando historias** &nbsp; · &nbsp; Ecuador / Remoto &nbsp; · &nbsp; ES / EN
+**13+ años de experiencia** &nbsp; · &nbsp; Ecuador / Remoto &nbsp; · &nbsp; ES / EN
 
 Soy **Ronald Guzmán Dávila**, productor audiovisual independiente. Dirijo, filmo y llevo cada historia hasta su entrega final: edición, color y sonido. Trabajo en documental y contenido editorial, en campo y con equipos distribuidos.
 
