@@ -1,8 +1,8 @@
 <p>
-  <img src="./assets/profile-poster.svg" width="100%" alt="Ronald Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
+  <img src="./assets/profile-typography.svg" width="100%" alt="Ronald Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
 </p>
 
-### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [WHATSAPP ↗](https://wa.me/593979864314)
+### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [ESCRÍBEME ↗](https://wa.me/593979864314)
 
 **13+ años creando historias** &nbsp; · &nbsp; Ecuador / Remoto &nbsp; · &nbsp; ES / EN
 
@@ -10,7 +10,7 @@ Soy **Ronald Guzmán Dávila**, productor audiovisual independiente. Dirijo, fil
 
 <br>
 
-## 01 — PLAY / Trabajo seleccionado
+<h2><img src="./assets/section-work.svg" width="100%" alt="01 — PLAY / Trabajo seleccionado"></h2>
 
 <a href="https://youtu.be/rhUEiaQfEJ4"><img src="https://img.youtube.com/vi/rhUEiaQfEJ4/hqdefault.jpg" width="100%" alt="Paraísos Escondidos del Ecuador — reproducir reel"></a>
 
@@ -32,7 +32,7 @@ Producción · Cámara · Edición · Color · Audio post · Entrega
 
 <br>
 
-## 02 — REC / Del campo a la sala de post
+<h2><img src="./assets/section-process.svg" width="100%" alt="02 — REC / Del campo a la sala de post"></h2>
 
 **CÁMARA ENCENDIDA.**  
 Dirección y fotografía. Producción de campo y logística en locaciones remotas, incluida la Amazonía.
@@ -60,10 +60,10 @@ S-Log2 / S-Log3 · Gestión de color ACES · Másters para broadcast y streaming
 
 <br>
 
-## 03 — CONTACTO / Hagamos que pase.
+<h2><img src="./assets/section-contact.svg" width="100%" alt="03 — CONTACTO / Hagamos que pase."></h2>
 
 Disponible para proyectos de documental, postproducción y color.
 
-### [WhatsApp · 0979864314 ↗](https://wa.me/593979864314)
+### [Escríbeme ↗](https://wa.me/593979864314)
 
 [LinkedIn](https://www.linkedin.com/in/ronaldgdavila/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/guzzmandro/) &nbsp; / &nbsp; [Portfolio in English](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
