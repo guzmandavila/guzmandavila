@@ -1,82 +1,69 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Ronald Guzmán Dávila. Historias con imagen. Y con sonido. Documental, edición, color y sonido.">
+<p>
+  <img src="./assets/profile-header.svg" width="100%" alt="Ronald Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/rhUEiaQfEJ4"><strong>Ver showreel ↗</strong></a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md">Portafolio</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:rnnld@periplostudio.com">Hablemos de tu proyecto</a>
-</p>
+### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [HABLEMOS ↗](mailto:rnnld@periplostudio.com)
 
-<p align="center">
-  <sub>13+ años de experiencia &nbsp; · &nbsp; 5+ años en remoto &nbsp; · &nbsp; Ecuador &nbsp; · &nbsp; ES / EN</sub>
-</p>
+**13+ años creando historias** &nbsp; · &nbsp; Ecuador / Remoto &nbsp; · &nbsp; ES / EN
+
+Soy **Ronald Guzmán Dávila**, productor audiovisual independiente. Dirijo, filmo y llevo cada historia hasta su entrega final: edición, color y sonido. Trabajo en documental y contenido editorial, en campo y con equipos distribuidos.
 
 <br>
 
-### Del territorio a la pantalla
+## 01 — PLAY / Trabajo seleccionado
 
-Soy productor audiovisual independiente. Dirijo y filmo documental y contenido editorial, y acompaño cada historia hasta su entrega final: **edición, color y sonido**.
+<a href="https://youtu.be/rhUEiaQfEJ4"><img src="https://img.youtube.com/vi/rhUEiaQfEJ4/hqdefault.jpg" width="100%" alt="Paraísos Escondidos del Ecuador — reproducir reel"></a>
 
-Trabajo en locaciones remotas y con equipos distribuidos. Un solo interlocutor, desde el rodaje hasta el máster para broadcast y streaming.
+**PARAÍSOS ESCONDIDOS DEL ECUADOR**  
+Serie documental / Revista Vistazo / 6+ episodios  
+Producción · Dirección de fotografía · Edición · Color · Sonido
 
-<br>
-
-### Trabajo seleccionado
-
-<a href="https://youtu.be/rhUEiaQfEJ4">
-  <img src="https://img.youtube.com/vi/rhUEiaQfEJ4/hqdefault.jpg" width="480" alt="Ver el showreel de Ronald Guzmán Dávila en YouTube">
-</a>
-
-**SHOWREEL** &nbsp; [Reproducir ↗](https://youtu.be/rhUEiaQfEJ4)  
-Una mirada a mi trabajo en producción, cámara y postproducción.
-
----
-
-**01 / Paraísos Escondidos del Ecuador**  
-*Serie documental · Revista Vistazo*
-
-Producción y dirección de fotografía en una serie de 6+ episodios. Rodajes en locaciones remotas, incluida la Amazonía, y postproducción completa: edición, color y sonido.
-
-**02 / Documental sobre el clima — Chimborazo**  
-*Revista Vistazo · Producción / Cámara / Postproducción*
-
-Del trabajo de campo a la entrega final. [Ver documental ↗](https://www.youtube.com/watch?v=ObqKy5h2I38)
-
-**03 / Periplo Studio**  
-*Fundador · Producción y postproducción*
-
-Mi espacio de trabajo para documental, contenido editorial y color para otros realizadores.
+[▶ Ver reel](https://youtu.be/rhUEiaQfEJ4)
 
 <br>
 
-### Cómo puedo sumarme
+<a href="https://www.youtube.com/watch?v=ObqKy5h2I38"><img src="https://img.youtube.com/vi/ObqKy5h2I38/hqdefault.jpg" width="100%" alt="Documental sobre el clima en Chimborazo — ver en YouTube"></a>
 
-**Producción**  
-Dirección y fotografía · Producción de campo · Logística en locaciones remotas.
+**CHIMBORAZO / DOCUMENTAL SOBRE EL CLIMA**  
+Revista Vistazo  
+Producción · Cámara · Edición · Color · Audio post · Entrega
 
-**Postproducción y color**  
-Edición y construcción narrativa · Corrección de color y grading · Másters y control de calidad.
-
-**Sonido**  
-Diseño sonoro · Limpieza y restauración de diálogo · Mezcla y masterización.
+[▶ Ver documental](https://www.youtube.com/watch?v=ObqKy5h2I38)
 
 <br>
 
-### En la sala de post
+## 02 — REC / Del campo a la sala de post
 
-**DaVinci Resolve Studio / Pro Tools Studio / Premiere Pro / After Effects**
+**CÁMARA ENCENDIDA.**  
+Dirección y fotografía. Producción de campo y logística en locaciones remotas, incluida la Amazonía.
 
-<sub>S-Log2 / S-Log3 · Gestión de color ACES · Entregables para broadcast y streaming</sub>
+**LA HISTORIA TOMA FORMA.**  
+Edición y construcción narrativa. Corrección de color, grading y control de calidad.
 
----
+**EL SONIDO TAMBIÉN CUENTA.**  
+Diseño sonoro, restauración de diálogo, mezcla y masterización.
 
-### ¿Tienes una historia en marcha?
+<br>
 
-Disponible para colaboraciones en documental, postproducción y color.
+**PERIPLO STUDIO** / Mi espacio de producción y postproducción para documental, contenido editorial y trabajo de color para otros realizadores.
 
-**[rnnld@periplostudio.com](mailto:rnnld@periplostudio.com)** ↗
+<details>
+<summary>Dentro de la sala de post ↗</summary>
 
-[LinkedIn](https://www.linkedin.com/in/ronaldgdavila/) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/guzzmandro/) &nbsp; · &nbsp; [Portfolio in English](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
+<br>
+
+DaVinci Resolve Studio · Pro Tools Studio · Premiere Pro · After Effects
+
+S-Log2 / S-Log3 · Gestión de color ACES · Másters para broadcast y streaming
+
+</details>
+
+<br>
+
+## 03 — CONTACTO / Hagamos que pase.
+
+Disponible para proyectos de documental, postproducción y color.
+
+### [rnnld@periplostudio.com ↗](mailto:rnnld@periplostudio.com)
+
+[LinkedIn](https://www.linkedin.com/in/ronaldgdavila/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/guzzmandro/) &nbsp; / &nbsp; [Portfolio in English](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
