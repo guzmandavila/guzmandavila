@@ -1,16 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
-<title id="title">Ronald Guzmán Dávila — Documental y postproducción</title>
-<desc id="desc">Cabecera editorial en carbón y marfil con acento naranja y líneas de encuadre.</desc>
-<rect width="1280" height="460" fill="#171b1c"/>
-<g stroke="#343b3c" fill="none"><circle cx="1120" cy="230" r="232"/><circle cx="1120" cy="230" r="170"/><circle cx="1120" cy="230" r="108"/><path d="M880 230h400M1120 0v460"/></g>
-<g stroke="#e8e4d9" stroke-width="2" fill="none"><path d="M36 76V36h40M1204 36h40v40M36 384v40h40M1204 424h40v-40"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="570" viewBox="0 0 1280 570" role="img" aria-labelledby="title desc">
+<title id="title">Ronald Guzmán Dávila — Producción audiovisual</title>
+<desc id="desc">Afiche gráfico verde ácido con nombre en tipografía negra de gran formato, una flecha violeta y bloques naranja. Documental, imagen, color y sonido.</desc>
+<rect width="1280" height="570" fill="#d9ff53"/>
+<rect x="1100" width="180" height="410" fill="#ff7448"/>
+<path d="M1100 0v410M0 410h1280" stroke="#19171c" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#19171c">
+<text x="48" y="51" font-size="18" letter-spacing="3">RONALD GUZMÁN DÁVILA / ECUADOR</text>
+<text x="48" y="187" font-size="137" font-weight="900" letter-spacing="-8">HISTORIAS</text>
+<text x="42" y="337" font-size="150" font-weight="900" letter-spacing="-8">EN MOVIMIENTO.</text>
+<text x="51" y="384" font-size="20" letter-spacing="1">DOCUMENTAL + PRODUCCIÓN + POST</text>
+</g>
+<g transform="translate(1190 205) rotate(-90)">
+<text text-anchor="middle" fill="#19171c" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="3">IMAGEN / COLOR / SONIDO</text>
+</g>
+<circle cx="969" cy="117" r="64" fill="#7850ff"/>
+<path d="M939 145l56-56m-45 0h45v45" stroke="#d9ff53" stroke-width="11" fill="none"/>
+<rect y="412" width="1280" height="158" fill="#19171c"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<circle cx="81" cy="86" r="5" fill="#ef986c"/>
-<text x="100" y="92" fill="#c8c7bd" font-size="15" letter-spacing="4">ECUADOR / EN LOCACIÓN + REMOTO</text>
-<text x="76" y="188" fill="#f1eee5" font-size="64" font-weight="700" letter-spacing="-2">Ronald Guzmán Dávila</text>
-<text x="79" y="251" fill="#ef986c" font-size="34">Historias con imagen. Y con sonido.</text>
-<path d="M80 300h1120" stroke="#4a5050"/>
-<text x="80" y="348" fill="#dddcd3" font-size="18" letter-spacing="3">DOCUMENTAL / EDICIÓN / COLOR / SONIDO</text>
-<text x="80" y="391" fill="#9caaa7" font-size="16">Del primer plano al máster final.</text>
-<text x="1200" y="391" text-anchor="end" fill="#9caaa7" font-size="15" letter-spacing="2">RGD — 01</text>
-</g></svg>
+<text x="50" y="467" font-size="18" fill="#d9ff53" letter-spacing="3">DEL RODAJE AL MÁSTER FINAL.</text>
+<text x="50" y="525" font-size="32" fill="#f7f3e8">Producción audiovisual independiente.</text>
+<text x="1226" y="529" text-anchor="end" font-size="22" font-weight="700" fill="#ff7448">REC ●</text>
+</g>
+</svg>
