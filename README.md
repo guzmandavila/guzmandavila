@@ -8,8 +8,11 @@
 
 Soy **Ronald Guzmán Dávila**, productor audiovisual independiente. Dirijo, filmo y llevo cada historia hasta su entrega final: edición, color y sonido. Trabajo en documental y contenido editorial, en campo y con equipos distribuidos.
 
+[Trabajo audiovisual](#audiovisual) &nbsp; / &nbsp; [Proyectos propios](#proyectos) &nbsp; / &nbsp; [Servicios](#servicios)
+
 <br>
 
+<a name="audiovisual"></a>
 <h2><img src="./assets/section-work.svg" width="100%" alt="01 — PLAY / Trabajo seleccionado"></h2>
 
 <a href="https://youtu.be/rhUEiaQfEJ4"><img src="https://img.youtube.com/vi/rhUEiaQfEJ4/hqdefault.jpg" width="100%" alt="Paraísos Escondidos del Ecuador — reproducir reel"></a>
@@ -32,7 +35,25 @@ Producción · Cámara · Edición · Color · Audio post · Entrega
 
 <br>
 
-<h2><img src="./assets/section-services.svg" width="100%" alt="02 / Producción y postproducción"></h2>
+<a name="proyectos"></a>
+<h2><img src="./assets/section-projects.svg" width="100%" alt="02 / Proyectos propios"></h2>
+
+<a href="https://github.com/guzmandavila/dronealt"><img src="./assets/project-dronealt.svg" width="49%" alt="Dronealt — Música ambient, drone y síntesis"></a>
+<a href="https://github.com/guzmandavila/rnnld-audio"><img src="./assets/project-rnnld-audio.svg" width="49%" alt="Rnnld Audio — Laboratorio de sonido"></a>
+
+<a href="https://github.com/guzmandavila/sony-slog-luts"><img src="./assets/project-sony-slog-luts.svg" width="49%" alt="Sony S-Log LUTs — Recursos de color"></a>
+<a href="https://github.com/guzmandavila/toolverse"><img src="./assets/project-toolverse.svg" width="49%" alt="Toolverse — Herramientas digitales"></a>
+
+<a href="https://github.com/guzmandavila/Editor-de-placa"><img src="./assets/project-editor-de-placa.svg" width="49%" alt="Editor de placa — Gráfica para video"></a>
+<a href="https://github.com/guzmandavila/pluggerestore"><img src="./assets/project-pluggerestore.svg" width="49%" alt="Pluggere Store — Catálogo digital"></a>
+
+
+[Dronealt](https://github.com/guzmandavila/dronealt) · [Rnnld Audio](https://github.com/guzmandavila/rnnld-audio) · [Sony S-Log LUTs](https://github.com/guzmandavila/sony-slog-luts) · [Toolverse](https://github.com/guzmandavila/toolverse) · [Editor de placa](https://github.com/guzmandavila/Editor-de-placa) · [Pluggere Store](https://github.com/guzmandavila/pluggerestore)
+
+<br>
+
+<a name="servicios"></a>
+<h2><img src="./assets/section-services-v2.svg" width="100%" alt="03 / Producción y postproducción"></h2>
 
 **Producción y dirección de fotografía**  
 Producción de campo, dirección de fotografía y logística de rodaje para documental y contenido editorial. Experiencia en locaciones remotas, incluida la Amazonía.
@@ -60,7 +81,7 @@ S-Log2 / S-Log3 · Gestión de color ACES · Másters para broadcast y streaming
 
 <br>
 
-<h2><img src="./assets/section-contact.svg" width="100%" alt="03 — CONTACTO / Hagamos que pase."></h2>
+<h2><img src="./assets/section-contact-v2.svg" width="100%" alt="04 / Contacto"></h2>
 
 Disponible para proyectos de documental, postproducción y color.
 
