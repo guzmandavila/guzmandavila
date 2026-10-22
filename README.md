@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-typography.svg" width="100%" alt="Ronald Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
+  <img src="./assets/rnnld-banner.svg" width="100%" alt="Rnnld Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
 </p>
 
 ### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [ESCRÍBEME ↗](https://wa.me/593979864314)
