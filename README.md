@@ -2,7 +2,7 @@
   <img src="./assets/profile-poster.svg" width="100%" alt="Ronald Guzmán Dávila. Historias en movimiento. Documental, producción y post.">
 </p>
 
-### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [HABLEMOS ↗](mailto:rnnld@periplostudio.com)
+### [▶ VER REEL](https://youtu.be/rhUEiaQfEJ4) &nbsp; / &nbsp; [PORTAFOLIO ↗](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md) &nbsp; / &nbsp; [WHATSAPP ↗](https://wa.me/593979864314)
 
 **13+ años creando historias** &nbsp; · &nbsp; Ecuador / Remoto &nbsp; · &nbsp; ES / EN
 
@@ -64,6 +64,6 @@ S-Log2 / S-Log3 · Gestión de color ACES · Másters para broadcast y streaming
 
 Disponible para proyectos de documental, postproducción y color.
 
-### [rnnld@periplostudio.com ↗](mailto:rnnld@periplostudio.com)
+### [WhatsApp · 0979864314 ↗](https://wa.me/593979864314)
 
 [LinkedIn](https://www.linkedin.com/in/ronaldgdavila/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/guzzmandro/) &nbsp; / &nbsp; [Portfolio in English](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
