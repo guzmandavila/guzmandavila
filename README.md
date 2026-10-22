@@ -32,23 +32,23 @@ Producción · Cámara · Edición · Color · Audio post · Entrega
 
 <br>
 
-<h2><img src="./assets/section-process.svg" width="100%" alt="02 — REC / Del campo a la sala de post"></h2>
+<h2><img src="./assets/section-services.svg" width="100%" alt="02 / Producción y postproducción"></h2>
 
-**CÁMARA ENCENDIDA.**  
-Dirección y fotografía. Producción de campo y logística en locaciones remotas, incluida la Amazonía.
+**Producción y dirección de fotografía**  
+Producción de campo, dirección de fotografía y logística de rodaje para documental y contenido editorial. Experiencia en locaciones remotas, incluida la Amazonía.
 
-**LA HISTORIA TOMA FORMA.**  
-Edición y construcción narrativa. Corrección de color, grading y control de calidad.
+**Edición y color**  
+Montaje y construcción narrativa, corrección de color y grading. Preparación de másters y control de calidad para broadcast y streaming.
 
-**EL SONIDO TAMBIÉN CUENTA.**  
-Diseño sonoro, restauración de diálogo, mezcla y masterización.
+**Postproducción de audio**  
+Edición, limpieza y restauración de diálogo. Diseño sonoro, mezcla y masterización.
 
 <br>
 
-**PERIPLO STUDIO** / Mi espacio de producción y postproducción para documental, contenido editorial y trabajo de color para otros realizadores.
+**Periplo Studio** / Estudio independiente de producción y postproducción audiovisual, enfocado en documental, contenido editorial y servicios de color para proyectos de terceros.
 
 <details>
-<summary>Dentro de la sala de post ↗</summary>
+<summary>Herramientas y flujos de postproducción</summary>
 
 <br>
 
